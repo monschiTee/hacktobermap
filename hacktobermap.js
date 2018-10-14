@@ -251,4 +251,10 @@ var hacktobermap = [
     latitude: 17.4474,
     longitude: 78.3762
   },
+  {
+    name: "Ramona Tee",
+    location: "Erlangen, Germany",
+    latitude: 49.599941,
+    longitude: 11.006300
+  },
 ];
